@@ -17,25 +17,17 @@ GITHUB
 # Installation
 Clone the repository:
 
-bash
+```bash
 Copy code
 git clone https://github.com/Bjboruah/Research_Paper_Conference_Prediction.git
-Navigate to the project directory:
+```
 
-bash
-Copy code
-cd Research_Paper_Conference_Prediction
-Create a virtual environment (optional but recommended):
+# Install the required dependencies:
 
-bash
-Copy code
-python -m venv env
-source env/bin/activate  # On Windows: env\Scripts\activate
-Install the required dependencies:
-
-bash
+```bash
 Copy code
 pip install -r requirements.txt
+```
 Usage
 # Prepare the dataset:
 
