@@ -18,14 +18,14 @@ GITHUB
 Clone the repository:
 
 ```bash
-Copy code
+
 git clone https://github.com/Bjboruah/Research_Paper_Conference_Prediction.git
 ```
 
 # Install the required dependencies:
 
 ```bash
-Copy code
+
 pip install -r requirements.txt
 ```
 Usage
