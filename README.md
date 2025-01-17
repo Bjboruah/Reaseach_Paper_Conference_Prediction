@@ -2,6 +2,7 @@
 This project aims to predict the acceptance of research papers into conferences using machine learning techniques.
 
 # Table of Contents
+
 Introduction
 Installation
 Usage
